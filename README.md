@@ -1,5 +1,5 @@
-# Airline-satisfaction
-Airline satisfaction data analysis
+# Airline-satisfaction-predict
+Airline satisfaction data analysis and predict
 # 사용된 Data Set
 https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data
 
