@@ -24,6 +24,6 @@ https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data
 - 언어 : Python
 - 라이브러리 : pandas, scikit-learn, matplotlib등
 - 팀원 : 김선우, 백준원, 조혜진  
-[!flowchart]https://github.com/sunwoo209/Airline-satisfaction-predict/blob/main/Preview.png
+  ![flowchart]https://github.com/sunwoo209/Airline-satisfaction-predict/blob/main/Preview.png
 ## 보고서
 
