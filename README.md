@@ -27,3 +27,5 @@ https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data
   ![flowchart](https://github.com/sunwoo209/Airline-satisfaction-predict/blob/main/Preview.png?raw=true)
 ## 보고서
 
+[Data밥상팀_1조_3차_프로젝트_(ML_예측_모델_구현)_보고서.pdf](https://github.com/user-attachments/files/17487082/Data._1._3._._.ML_._._._.pdf)
+
