@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data
 - 분석 결론을 활용한 예측 모델 개발
   1. 분석 결론을 통해  feature enginnering 와 컬럼 가감을 진행
   2. logistic regression, XGBoost , RandomForest 을 진행
-  3. Ensemble기법을 적용해 F1score를 끌어올리는 방법 선택
+  3. Ensemble 기법을 적용해 F1score 를 끌어올리는 방법 선택
 
 ## 사용 된 도구
 - 언어 : Python
